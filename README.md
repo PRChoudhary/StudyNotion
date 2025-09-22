@@ -1,6 +1,6 @@
 # StudyNotion Online Education Platform (MERN App) 
 
-![Main Page](images/mainpage.png)
+
 
 ## Project Description
 
@@ -64,12 +64,7 @@ unstructured and semi-structured data. The database stores the course content, u
 relevant information related to the platform.
 
 
-### Architecture Diagram
 
-Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
-platform:
-
-![Architecture](images/architecture.png)
 
 ## Front End
 
@@ -168,7 +163,6 @@ for an ed-tech platform, with a focus on security, reliability, and ease of use.
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
 
-![Database Schema](images/schema.png)
 
 ## API Design
 
@@ -209,4 +203,5 @@ RESTful principles, the API will be scalable, maintainable, and reliable. The sa
 requests and responses provided above illustrate how each endpoint will function and
 what kind of data it will accept or return. With this API design, StudyNotion will be able to
 provide a smooth user experience while ensuring security and stability.
+
 
